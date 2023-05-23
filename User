@@ -1,0 +1,10 @@
+   Attributes:  
+    # name: string 
+    # surname: string 
+    # id: string 
+    # eMail: string 
+    # password: string 
+   Oerations: 
+    + edit(): User 
+    + comment(): string  
+    + addBankAccount(): Wallet
