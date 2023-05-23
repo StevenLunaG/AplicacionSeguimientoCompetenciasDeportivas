@@ -1,0 +1,6 @@
+   Attributes:
+    - bankAccount: int
+    - balance: float
+    - funds: float
+   Operatios:
+    + transfer(funds): void
