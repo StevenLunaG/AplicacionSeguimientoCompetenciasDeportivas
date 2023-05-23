@@ -1,2 +1,7 @@
 # AplicacionSeguimientoCompetenciasDeportivas
 User
+Wallet 
+News
+SportEvent
+IndividualSport
+TeamSport
