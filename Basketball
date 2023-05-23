@@ -1,0 +1,12 @@
+   Attributes: 
+    - hope: Hope 
+    - backboard: Backboard 
+   Operations: 
+    + setNumberOfTeamPlayers(): int=12 
+    + setNumberOfSets(): int = 4 
+    + setSetTime(): time=10 minutes 
+    + dribbleBall(): void 
+    + shootBall(): void 
+    + passBall(): void 
+    + reboundBall(): void 
+    + defend(): void
