@@ -1,0 +1,4 @@
+   <<DataType>> 
+    - setRadius(): float 
+    - setHeightfromGround(): float 
+    - setAngle(): float
