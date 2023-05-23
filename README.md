@@ -1,7 +1,5 @@
 # AplicacionSeguimientoCompetenciasDeportivas
 User
-<<<<<<< HEAD
-=======
 Wallet 
 News
 SportEvent
@@ -17,3 +15,4 @@ Player
 Statistics
 Result
 Prediction
+Schedule
