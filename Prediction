@@ -1,0 +1,13 @@
+   Attribute:
+    - winnerPrediction: string
+    - tiePrediction: string
+    - loserPrediction: string
+    - finalScorePrediction: string
+   Operation:
+    + bet(): void
+    + getWinner(): string
+    + getTie(): string
+    + getLoser(): string
+    + getFinalScore(): string
+    + winBet(): void
+    + loseBet(): void
