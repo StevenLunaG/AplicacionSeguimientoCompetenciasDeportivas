@@ -1,0 +1,9 @@
+   Attributes: 
+    - net: Net  
+    - numberOfTeamPlayer: int=6 
+    - point: int 
+   Operations: 
+    + serve(): void 
+    + returnBall(): void 
+    + setNumberOfPlayersPerTeam(rules): int=6 
+    + limitPoint(point): int = 15
