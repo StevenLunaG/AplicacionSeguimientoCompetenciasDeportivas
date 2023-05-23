@@ -14,4 +14,6 @@ PingPong
 Chess
 Match
 Player
->>>>>>> develop
+Statistics
+Result
+Prediction
