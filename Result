@@ -1,0 +1,8 @@
+   Attributes 
+    + winner: string
+    + loser: string
+    + time: float
+    + score: int
+   Operations 
+    + getTime(); float
+    + getScore(): int
