@@ -1,0 +1,4 @@
+   <<DataType>> 
+    - start(): void 
+    - pause(): void 
+    - stop(): void

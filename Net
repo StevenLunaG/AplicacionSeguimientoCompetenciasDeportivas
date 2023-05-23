@@ -1,0 +1,3 @@
+   <<DataType>>
+    - serHeight(): float
+    - setLength(): float

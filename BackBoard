@@ -1,0 +1,3 @@
+   <<DataType>> 
+    - setWidth(): float 
+    - setHeight(): float

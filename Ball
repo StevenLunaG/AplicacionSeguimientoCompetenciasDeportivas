@@ -1,0 +1,5 @@
+   <<DataType>> 
+    - setWeight(): float 
+    - setDiameter(): float 
+    - setRadius(): float 
+    - setVolume(): float
