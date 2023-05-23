@@ -10,3 +10,5 @@ Basketball
 Soccer
 PingPong
 Chess
+Match
+Player
