@@ -1,5 +1,7 @@
 # AplicacionSeguimientoCompetenciasDeportivas
 User
+<<<<<<< HEAD
+=======
 Wallet 
 News
 SportEvent
