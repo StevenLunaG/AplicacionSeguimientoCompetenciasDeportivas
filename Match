@@ -1,0 +1,6 @@
+  Attributes:
+    - date: date
+    - location: string
+    - results: ListResult
+   Operations:
+   + getResult(results): Result 
