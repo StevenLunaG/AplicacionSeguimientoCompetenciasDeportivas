@@ -1,0 +1,7 @@
+   Attributes:
+    - setVictoryConditions(): string
+    - setPenaltyContions(): string
+    - setPlayingFIeld: string
+    - setNumberOfSets: int
+    - setSetTime: time
+    - numberOfPlayersPerTeam: int
