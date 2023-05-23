@@ -1,0 +1,9 @@
+   Attributes 
+    - goal: Goal 
+   Operations 
+    + setNumberOfTeamPlayers: int=11 
+    + setTimeOfSets(): int=45 minutes 
+    + setNumberOfSets: int= 2 
+    + kickBall(): void 
+    + defendGoal(): void 
+    + dribble(): void

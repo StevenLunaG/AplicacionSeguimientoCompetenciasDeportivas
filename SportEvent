@@ -1,0 +1,15 @@
+   Attributes: 
+    - sport: string  
+    - name: string 
+    - startDate: date 
+    - finishDate: date 
+    - location: string 
+    - classification: string 
+    - teams: ListTeam 
+    - matchups: ListMatch 
+   Operations: 
+    + getClassification(classification): string 
+    + getTeams(teams): lisTeam 
+    + getMatchs(matchups): Match 
+    + getStartDate(startDate): date 
+    + getFishDate(finishDate): date
