@@ -12,3 +12,6 @@ PingPong
 Chess
 Match
 Player
+Statistics
+Result
+Prediction
