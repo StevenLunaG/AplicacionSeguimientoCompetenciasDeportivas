@@ -1,0 +1,7 @@
+   Attribute
+    + gamesWon: int
+    + lostGames: Int
+    + tiedGames: int
+    + scores: ListResult
+   Operation
+    + update(): Statistics
