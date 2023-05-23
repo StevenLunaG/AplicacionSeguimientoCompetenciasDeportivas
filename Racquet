@@ -1,0 +1,5 @@
+   <<DataType>> 
+    - setWeight(): float 
+    - setBalance(): string 
+    - setHeadSize(): float 
+    - setHandleSize(): float

@@ -1,0 +1,8 @@
+   <<DataType>> 
+    - setMovementRangePerPIece(): string 
+    - setNumberOfPaws(): int=8 
+    - setNumberOfKnights(): int=2 
+    - setNumberOfRooks(): int=2 
+    - setNumberOfBishops(): int=2 
+    - setNumberOfQueens(): int =1 
+    - setNumberOfKings(): int=1(ReadOnly)

@@ -1,0 +1,5 @@
+   <<DataType>> 
+    - setLongdimension(): float 
+    - setWidedimension(): float 
+    - setFloor(): string 
+    - setGamesZones(): string
