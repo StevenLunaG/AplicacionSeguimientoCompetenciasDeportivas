@@ -2,3 +2,4 @@
 User
 Wallet 
 News
+SportEvent
