@@ -1,0 +1,6 @@
+   Attribute:
+    # playerId: int
+    # rules: Rules
+    # players: ListPlayer
+   Operation:
+    + assignId(playerId)= int
